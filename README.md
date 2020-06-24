@@ -16,13 +16,18 @@
 
 ### Тема 4
 
+[React голосовалка, рефакторинг c комментами и попыткой вдуматься](https://kodaktor.ru/4f78e97)
 
 
 [MaterialUI](https://stackblitz.com/edit/react-q7cxpx)
 
 
+### ИСР ВСР
 
-
-[CAPTCHA PHP]
+[CAPTCHA](https://denisnyux.github.io/js_simple_captcha/), source
 
 [Приложение на PHP, развернутое на heroku](https://piha-task.herokuapp.com/)
+
+[Приложение на PHP, развернутое на beget](http://e987845r.beget.tech/Nyukhalov_Denis/new_file.php?n1=5&n2=6)
+
+[Приложение для визуализации инфографики](https://denisnyux.github.io/simple_charts_js/)(не canvas, простите). Взято из курса moodle по ТКМ: [Текст задания](https://drive.google.com/file/d/1DHq5zBYTzXagJYL6kQ1FyYBnfySCtyyH/view)
